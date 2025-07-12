@@ -1,9 +1,9 @@
 # Data Science & Analytics Portfolio
 ** Technical Skills & Tools: Python, SQL, Git, Power BI, Tableau, Azure Data Studio, Flask **
-
+***
 ### Education
 - B.S., Computer Science | Howard University (_May 2025_)
-
+***
 ### Work Experience
 ** Sports Science Coordinator @ Howard University (_January 2022 - Present_) **
 - Project 1
