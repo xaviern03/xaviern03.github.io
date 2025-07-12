@@ -39,7 +39,7 @@ Description
 - Description 1
 - Description 2
 
-**Blacks at Microsoft (BAM) Code Academy**
+**Blacks at Microsoft (BAM) Code Academy (_October 2021 - January 2023_)**
 - Description 1
 
 
