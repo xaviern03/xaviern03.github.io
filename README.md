@@ -1,4 +1,4 @@
-# Sports Analytics & Sports Science
+# Data Science & Analytics Portfolio
 
 ### Education
 Computer Science, Bachelor's
