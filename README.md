@@ -23,6 +23,29 @@
 
 ***
 ### Projects
-MLS Data Automation Project
-- words words words
+Description emphasizing the reason for my versatiliy and career goals and aspirations
+**Player Performance Reporting**
+Description
+
+**MLS Data Pipeline Project**
+Description
+
+**Evaluating WR Performance: A Composite and Stability-Based Ranking System**
+Description
+
+**Energy Generating Behaviors Reporting**
+Description
+
+***
+### Volunteering
+**Howard University Alternative Spring Break (_March 2024, March 2025_)**
+- Description 1
+- Description 2
+
+**Blacks at Microsoft (BAM) Code Academy**
+- Description 1
+
+
+
+
 
