@@ -1,6 +1,5 @@
 # Data Science & Analytics Portfolio
 **Technical Skills & Tools: Python, SQL, Git, Power BI, Tableau, Azure Data Studio, Flask**
-***
 ## Education
 - B.S., Computer Science | Howard University (_May 2025_)
 
