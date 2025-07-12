@@ -21,7 +21,7 @@
 - Project 1
 - Project 2
 
-
+***
 ### Projects
 MLS Data Automation Project
 - words words words
