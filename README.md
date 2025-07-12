@@ -3,7 +3,7 @@
 ***
 ## Education
 - B.S., Computer Science | Howard University (_May 2025_)
-***
+
 ## Work Experience
 **Sports Science Coordinator @ Howard University (_January 2022 - Present_)**
 - Project 1
@@ -21,7 +21,6 @@
 - Project 1
 - Project 2
 
-***
 ## Projects
 Description emphasizing the reason for my versatiliy and career goals and aspirations
 ### Player Performance Reporting
@@ -36,7 +35,6 @@ Description
 ### Energy Generating Behaviors Reporting
 Description
 
-***
 ## Volunteering
 **Howard University Alternative Spring Break (_March 2024, March 2025_)**
 - Description 1
